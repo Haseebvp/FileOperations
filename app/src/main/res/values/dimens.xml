@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_15">15sp</dimen>
+    <dimen name="margin_10">10sp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_22">22dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="margin_1">1dp</dimen>
+    <dimen name="text_15">15sp</dimen>
+    <dimen name="margin_18">18sp</dimen>
+</resources>

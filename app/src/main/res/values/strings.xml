@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileOps</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="taptoselect"><u> Tap to Select a File </u></string>
+</resources>
