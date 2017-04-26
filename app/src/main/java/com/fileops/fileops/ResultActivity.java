@@ -24,7 +24,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import adapters.FileAdapter;
-import models.fileObject;
 
 public class ResultActivity extends AppCompatActivity {
 
